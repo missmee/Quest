@@ -1,0 +1,35 @@
+body {
+    background-color: #F4FFFD;
+    }
+
+
+
+a {
+    font-family: Helvetica, sans-serif;
+    color: #ECC209;
+}
+
+h1 {
+    font-size: 2.5em;
+    text-align: left;
+    color: #ED254E;
+    font-family: Helvetica, sans-serif;
+    }
+
+h2 {
+    font-size: 2em;
+    text-align: left;
+    color: #ED254E;
+    font-family: Helvetica, sans-serif;
+    }
+    
+    p {
+    font-size: 1em;
+    text-align: left;
+    font-family: Helvetica, sans-serif;
+    width: 50%;
+    color: #011936;
+    }
+    
+
+   
